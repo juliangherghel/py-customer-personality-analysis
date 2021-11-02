@@ -114,4 +114,4 @@ The following patterns are identified:
 - Low income group
 
 ## :page_with_curl:Conclusion:page_with_curl:
-Throughout this project, unsupervised clustering has been performed. Dimensionality reducation was employed, followed by agglomerative clustering. Four clusters have been produced and used for customer profiling per cluster according to their household structures, income and spending. The information extracted can be used for planning future marketing strategies.
+Throughout this project, unsupervised clustering has been performed. Dimensionality reduction was employed, followed by agglomerative clustering. Four clusters have been produced and used for customer profiling per cluster according to their household structures, income and spending. The information extracted can be used for planning future marketing strategies.

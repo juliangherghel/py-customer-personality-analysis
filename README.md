@@ -1,12 +1,12 @@
 # Customer Personality Anaylsis using Python
 
-Dataset: https://www.kaggle.com/imakash3011/customer-personality-analysis
+:file_folder:Dataset: https://www.kaggle.com/imakash3011/customer-personality-analysis :file_folder:
 
 In this project, unsupervised data clustering is performed on customers' records from a supermarket's database.
 
 Customer segmentation is the practice of dividing customers into groups that reflect similarities among each other. Customers will be divided into segments to optimize the significance of each individual customer in the business, to modify products according to the distinct needs and behaviours of each customer, and also to help the business cater to the different concenrns of different types of customers.
 
-## :mag: About the dataset :mag::
+## :mag:About the dataset:mag:
 The dataset consists of 2240 datapoints and 29 attributes. This can be re-organized into the following subsets:
 ### Customer's Information
 - ID
@@ -44,7 +44,7 @@ Amount spent on different products in the last 2 years
 - AcceptedCmp5
 - Response
 
-## Data Cleaning
+## :file_folder:Data Cleaning:file_folder:
 
 An overview of the work carried out in this section encompasses the following:
 1. Removal of missing values
@@ -59,7 +59,7 @@ An overview of the work carried out in this section encompasses the following:
 4. Divise three new categories in **"Education"** by simplifying existent value counts
 5. Dropping redundant features
 
-## Data Preprocessing
+## :wrench:Data Preprocessing:wrench:
 The following steps are taken to preprocess the data:
 1. Label encoding categorical features
 2. Scaling features using a standard scaler
@@ -70,7 +70,7 @@ Steps taken in this subsection:
 - Dimensionality reduction with **Principal Component Analysis**
 - Plotting of the reduced dataframe
 
-## Clustering
+## :family:Clustering:family:
 To apply clustering, the following steps have been taken:
 1. **Elbow Method** to determine the required number of clusters
 2. Clustering via **Agglomerative Clustering**
@@ -85,7 +85,7 @@ The following patterns are identified:
 - Group 2: high spending & high income
 - Group 3: low spending & high income
 
-## Cluster Profiling
+## :bust_in_silhouette:Cluster Profiling:bust_in_silhouette:
 
 ### About Cluster Number 0:
 - Definitely a parent
@@ -113,5 +113,5 @@ The following patterns are identified:
 - In the older age groups
 - Low income group
 
-## Conclusion
+## :page_with_curl:Conclusion:page_with_curl:
 Throughout this project, unsupervised clustering has been performed. Dimensionality reducation was employed, followed by agglomerative clustering. Four clusters have been produced and used for customer profiling per cluster according to their household structures, income and spending. The information extracted can be used for planning future marketing strategies.

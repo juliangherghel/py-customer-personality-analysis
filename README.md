@@ -44,7 +44,7 @@ Amount spent on different products in the last 2 years
 - AcceptedCmp5
 - Response
 
-## :file_folder:Data Cleaning:file_folder:
+## :scissors:Data Cleaning:scissors:
 
 An overview of the work carried out in this section encompasses the following:
 1. Removal of missing values

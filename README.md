@@ -89,7 +89,7 @@ The following patterns are identified:
 
 ### About Cluster Number 0:
 - Definitely a parent
-- Betweent 2 and 4 family members
+- Between 2 and 4 family members
 - Most have a teenager at home
 - In the older age groups
 

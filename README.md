@@ -115,3 +115,10 @@ The following patterns are identified:
 
 ## :page_with_curl:Conclusion:page_with_curl:
 Throughout this project, unsupervised clustering has been performed. Dimensionality reduction was employed, followed by agglomerative clustering. Four clusters have been produced and used for customer profiling per cluster according to their household structures, income and spending. The information extracted can be used for planning future marketing strategies.
+
+### Recommendation
+The amount of spending exhibited by Groups 0, 1 and 2 appears to be proportional to their income, namely average income/spending, low income/spending and high income/spending, respectively.
+
+However, Group 3 exhibits a disparity between spending and income amounts, namely low spending and high income. The ideal customer is one which spends an amount directly proportional to their income, which is not the case for Group 3.
+
+It is recommended that the marketing team targets Group 3 with better planned promotion campaigns, particularly those which provide more value per amount spend. This can be supported by evaluating the responsiveness of Group 3 towards consecutive marketing campaigns. Group 3 is highly responsive to the first campaign, however, retention of interest in promotions appears to drastically drop after the first campaign, whilst completely vanishing after the second campaign. There is strong indication that promotional campaigns conducted in the past have been largely unsuitable for the retailer's customer base, particularly for customers with sub-optimal income/spending proportions such as those belonging to Group 3.

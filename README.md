@@ -119,6 +119,14 @@ Throughout this project, unsupervised clustering has been performed. Dimensional
 ### Recommendation
 The amount of spending exhibited by Groups 0, 1 and 2 appears to be proportional to their income, namely average income/spending, low income/spending and high income/spending, respectively.
 
-However, Group 3 exhibits a disparity between spending and income amounts, namely low spending and high income. The ideal customer is one which spends an amount directly proportional to their income, which is not the case for Group 3.
+However, Group 3 exhibits a disparity between spending and income amounts, namely low spending and high income. The ideal customer can be perceived as one which spends a proportional amount to their income, which is not the case for Group 3.
 
-It is recommended that the marketing team targets Group 3 with better planned promotion campaigns, particularly those which provide more value per amount spend. This can be supported by evaluating the responsiveness of Group 3 towards consecutive marketing campaigns. Group 3 is highly responsive to the first campaign, however, retention of interest in promotions appears to drastically drop after the first campaign, whilst completely vanishing after the second campaign. There is strong indication that promotional campaigns conducted in the past have been largely unsuitable for the retailer's customer base, particularly for customers with sub-optimal income/spending proportions such as those belonging to Group 3.
+The recommendation is that the marketing team targets Group 3 with better planned promotional campaigns, particularly those which provide more value per amount spend. This can be supported by evaluating the responsiveness of Group 3 towards consecutive marketing campaigns. Group 3 is highly responsive to the first campaign, however, retention of interest towards promotions appears to drastically drop after the first campaign, whilst completely vanishing after the second campaign. There is strong indication that promotional campaigns conducted in the past have been largely unsatisfactory for the retailer's customer base, particularly for customers with sub-optimal income/spending proportions, such as those belonging to Group 3.
+
+It must be noted that the nature of the promotional campaigns conducted in the past is not defined by this data set. For example, the data provided in this data set could be describing engagement towards campaigns for products with typically low purchase frequency, such as turkeys around Thanksgiving - whilst a promotional campaign for this product is likely to attract one large wave of purchases, the customers are highly unlikely to re-purhcase a turkey after Thanksgiving, even when discounted.
+
+Further analysis must be carried out to extract information to support the design of future promotional campaigns, such as:
+- Average income of customers
+- Average total spend of customers
+- Average amount of time customers have been registered with the retailer for
+- The most frequent education level amongst customers

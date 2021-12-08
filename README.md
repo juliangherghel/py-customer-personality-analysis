@@ -106,7 +106,7 @@ The following patterns are identified:
 - Span all age groups
 - High income group
 
-### About Cluster Number 4:
+### About Cluster Number 3:
 - Definitely a parent
 - Between 2 and 5 family members
 - Majority have 1 teenager at home

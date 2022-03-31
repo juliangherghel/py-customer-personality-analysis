@@ -4,7 +4,7 @@
 
 In this project, unsupervised data clustering is performed on customers' records from a supermarket's database.
 
-Customer segmentation is the practice of dividing customers into groups that reflect similarities among each other. Customers will be divided into segments to optimize the significance of each individual customer in the business, to modify products according to the distinct needs and behaviours of each customer, and also to help the business cater to the different concenrns of different types of customers.
+Customer segmentation is the practice of dividing customers into groups that reflect similarities among each other. Customers will be divided into segments to support customer targeting campaigns.
 
 ## :mag:About the dataset:mag:
 The dataset consists of 2240 datapoints and 29 attributes. This can be re-organized into the following subsets:
